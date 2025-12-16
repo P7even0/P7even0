@@ -27,7 +27,7 @@ I enjoy learning by experimenting, refining ideas, and understanding how systems
 - Python for tooling, automation, and UI development  
 - C++ with a focus on performance and low-level understanding  
 - Data structures and algorithms  
-- Git, GitHub, and basic project structuring  
+
 
 ---
 
@@ -49,7 +49,9 @@ mainly for their emphasis on emergent behavior, resource management, and complex
 
 - Develop strong programming fundamentals  
 - Build a portfolio of small but thoughtfully designed projects  
-- Continue improving through consistent practice during college  
+- Continue improving through consistent practice during college
+- Contribute to some open-source projects
+- Make something that positively impacts the world  
 
 <!--
 **P7even0/P7even0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
