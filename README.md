@@ -5,54 +5,6 @@ I enjoy learning by experimenting, refining ideas, and understanding how systems
 
 ---
 
-## Interests
-
-- Software engineering and system design  
-- Algorithmic problem-solving and competitive programming  
-- Simulation-based and systems-driven applications  
-- Interactive programs and desktop tools  
-
----
-
-## What I’m working on
-
-- Small Python and C++ projects with an emphasis on clarity and correctness  
-- Desktop applications and UI experiments  
-- Improving algorithmic thinking through competitive programming practice  
-
----
-
-## What I’m learning
-
-- Python for tooling, automation, and UI development  
-- C++ with a focus on performance and low-level understanding  
-- Data structures and algorithms  
-
-
----
-
-## Competitive Programming
-
-I practice competitive programming as a hobby and am currently working through the **USACO Guide**,  
-using it to build strong fundamentals in algorithms, data structures, and problem-solving techniques.
-
----
-
-## Background interests
-
-I’m particularly interested in systems-heavy simulation games (such as Kenshi, Project Zomboid, and RimWorld),  
-mainly for their emphasis on emergent behavior, resource management, and complex interactions rather than gameplay alone.
-
----
-
-## Goals
-
-- Develop strong programming fundamentals  
-- Build a portfolio of small but thoughtfully designed projects  
-- Continue improving through consistent practice during college
-- Contribute to some open-source projects
-- Make something that positively impacts the world  
-
 <!--
 **P7even0/P7even0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
