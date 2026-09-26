@@ -1,6 +1,6 @@
 ## Hi, I’m Cole 👋
 
-I’m a first-year Computer Engineering student with an interest in building small, well-structured software projects and strengthening my problem-solving skills.  
+I’m a second-year Computer Engineering student with an interest in building small, well-structured software projects and strengthening my problem-solving skills.  
 I enjoy learning by experimenting, refining ideas, and understanding how systems behave under different constraints.
 
 ---
